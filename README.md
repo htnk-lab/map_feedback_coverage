@@ -2,7 +2,7 @@
 
 This repository serves for the project webpage of ECC 2025 paper, "Impact of Real-time Map Feedback on Coordinated Image Sampling for 3D Reconstruction" by Muhammad Hanif, Takumi Sumino, Kuniaki Uto, Daisuke Ichihashi, Kelvin Cheng, and Takeshi Hatanaka.
 
-<!-- You can view the website [here](https://mhd-hanif.github.io). -->
+You can view the website [here](https://htnk-lab.github.io/map_feedback_coverage/).
 
 <!-- ## About the Project
 
